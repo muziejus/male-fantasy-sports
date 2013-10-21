@@ -8,7 +8,7 @@ To purchase:
 * Hornby, Nick. *Fever Pitch*. 1992. Riverhead. 978-1573226882.
 * Kelly, John D. *The American Game: Capitalism, Decolonization, World Domination, and Baseball*. Prickly Paradigm, 2006. 978-0976147558.
 * King, John. *The Football Factory*. 1996. New York: Vintage, 2004. 978-0099474623.
-(NOTE: This novel is unavailable from a US distributor. Please consult your preferred online used bookseller to get a copy ASAP. Please try to use US booksellers to make sure you have the book in time!) 
+    (NOTE: This novel is unavailable from a US distributor. Please consult your preferred online used bookseller to get a copy ASAP. Please try to use US booksellers to make sure you have the book in time!) 
 * Kinsella, W.P. *Shoeless Joe*. 1982. Mariner. 978-0395957738.
 * Kuper, Simon. *Soccer against the Enemy: How the World’s Most Popular Sport Starts and Fuels Revolutions and Keeps Dictators in Power*. 1994. Nation (2006 edition). 978-1560258780.
 * Malamud, Bernard. *The Natural*. 1952. Farrar, Straus and Giroux. 978-0374502003.
@@ -39,4 +39,5 @@ Useful supplemental/relegated reading:
 * Giulianotti, Richard. “Supporters, Followers, Fans, and Flâneurs: A Taxonomy of Spectator Identities in Football.” *Journal of Sport & Social Issues* 26.1. (February 2002). 25–46.
 * James. *Beyond a Boundary*.
 * King, John. *England Away*. London: Johnathan Cape, 1998.
-* Lipsyte, Robert. “Introduction,” “Welcome to SportsWorld” and “Please Rise for Our National Pastime.” *SportsWorld: An American Dreamland*. New York: Quadrangle, 1975. ix–49. Miller, Sportsex.
+* Lipsyte, Robert. “Introduction,” “Welcome to SportsWorld” and “Please Rise for Our National Pastime.” *SportsWorld: An American Dreamland*. New York: Quadrangle, 1975. ix–49. 
+* Miller, *Sportsex*.
