@@ -16,3 +16,5 @@ If you would like to know more about GitHub and syllabi, here are a few ProfHack
 * [Forking Your Syllabus](http://chronicle.com/blogs/profhacker/forking-your-syllabus/39137) (22 March 2012)
 * [How to Fork a Syllabus on GitHub](http://chronicle.com/blogs/profhacker/how-to-fork-a-syllabus-on-github/39447) (12 April 2012)
 * [Git a Fork in My Syllabus, It’s Done](https://chronicle.com/blogs/profhacker/git-a-fork-in-my-syllabus-its-done/40331) (5 June 2012)
+
+Male Fantasy Sports by [Moacir P. de Sá Pereira](http://moacir.com) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/)
