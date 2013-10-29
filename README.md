@@ -9,7 +9,7 @@ The original course description in Chicago's Time Schedules read:
 
 This structure of this GitHub syllabus is based on Mark Sample's [Videogame Studies](https://github.com/samplereality/videogame-studies) syllabus, in how it is presented on GitHub. 
 
-For people on University of Chicago computers, the evaluations of the original course can [be read here](https://evaluations-uchicago-edu.proxy.uchicago.edu/evaluation.cfm?fk_olcourseid=4501)
+For people on University of Chicago computers, the evaluations of the original course can [be read here](https://classes.uchicago.edu/loggedin/evaluation.php?id=4501)
 
 If you would like to know more about GitHub and syllabi, here are a few ProfHacker articles:
 
